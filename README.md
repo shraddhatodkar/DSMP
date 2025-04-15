@@ -1,1 +1,1 @@
-# DSMP
+# DSMP-This Secure Chat Application is developed as part of our Domain Specific Mini Project (DSMP). The application enables two or more users to communicate securely in real time over a network. The primary focus is on implementing end-to-end encryption and ensuring data privacy and integrity.
